@@ -1,6 +1,5 @@
 {
-  "name": "pm-portfolio",
-  "homepage": "https://lifeisgood15.github.io/shaily-portfolio-vercelv1/",
+  "name": "shaily-pm-portfolio",
   "private": true,
   "version": "0.0.0",
   "type": "module",
